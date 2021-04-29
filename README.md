@@ -6,7 +6,7 @@
 
 - BoB 5th information protection soldier track
 
-- 2'nd prize on 2019 ROKAF Hacking protection contest
+- 2nd prize on 2019 ROKAF Hacking protection contest
 
 <br>
 
