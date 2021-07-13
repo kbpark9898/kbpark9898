@@ -8,6 +8,8 @@
 
 - 2nd prize on 2019 ROKAF Hacking protection contest
 
+- 2021 NAVER connect boostcamp web track (boostcamp 6th)
+
 <br>
 
 <h3>Introduce</h3>
