@@ -10,6 +10,7 @@
 
 - 2021 NAVER connect boostcamp web track (boostcamp 6th)
 
+- 2022.02~ LINE web developer
 <br>
 
 <h3>Introduce</h3>
