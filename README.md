@@ -15,7 +15,7 @@
 
 <h3>Introduce</h3>
 
-- 🌱 I’m currently learning **SpringBoot, algorithm, PyTorch**
+- 🌱 I’m currently learning **TypeScript, React, Nest.JS**
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1sQkLRe40iOFEtOjtsMsfadGu7pwuHX2b/view?usp=sharing](https://drive.google.com/file/d/1sQkLRe40iOFEtOjtsMsfadGu7pwuHX2b/view?usp=sharing)
 
